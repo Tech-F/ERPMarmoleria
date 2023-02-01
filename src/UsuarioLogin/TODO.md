@@ -6,7 +6,7 @@ Al crear este usuario se creará la base de datos donde se guardará todo
 lo relacionado con este super usuario, como puede ser toda la base de
 presupuestos, facturas, clientes, proveedores, etc.
 
-## Apartado clientes
+## Apartado proveedores
 Para los clientes necesitaremos varios datos exenciales:
 1. Nombre completo
 2. Número de identificación fiscal
