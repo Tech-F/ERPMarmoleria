@@ -68,5 +68,13 @@ mas adelante)
 5. Iva
 6. Obra (si se selecciona tambien se abriran apartados,
 como puede ser, IVA para ese tipo de obra, recargo por materiales,
-portes, colocacion, idioma
-7. )
+portes, colocacion, idioma)
+7. Forma de cobro y días, serparados por comas
+8. Comercial que lo está vendiendo
+9. Notas
+10. Numero de medidas
+11. Referenciar otro presupuesto (todos los presupuestos referenciados
+cambian su numero de presupuesto al mismo+otros numeros para
+general el distintivo entre ellos)
+12. Lineas para meter las referencias
+
